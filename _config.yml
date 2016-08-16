@@ -1,0 +1,28 @@
+name: Fussy
+favicon: null
+layout_spectrum: 0.46225351048633456
+typography_spectrum: 0.5461290027014911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8027434924151748
+  lightness: 0.4510305665899068
+  saturation: 0.09859110740944743
+  rhythmicContrast: 0.6483506406657398
+purpose: []
